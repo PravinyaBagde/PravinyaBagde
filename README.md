@@ -14,9 +14,9 @@
 
 - 👯 I’m looking to collaborate on **UI/UX Designing**
 
-- 💬 Ask me about **UI/UX Designing and WireFrames.**
+- 💬 Ask me about **UI/UX Designing, WireFrames and JAVA ♨️.**
 
-- 📫 How to reach me **bagdepravinya@gmail.com**
+- 📫 Connect with me **bagdepravinya@gmail.com**
 
 - ⚡ Fun fact **I think 120 km/p is slow.**
 
