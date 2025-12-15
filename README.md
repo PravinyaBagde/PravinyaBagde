@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA and DEVops.**
+- 🌱 I’m currently learning **DEvOps.**
 
-- 👯 I’m looking to collaborate on **UI/UX Designing**
-
-- 💬 Ask me about **UI/UX Designing, WireFrames and JAVA ♨️.**
+- 💬 Ask me about **UI/UX Designing, WireFrames♨️.**
 
 - 📫 Connect with me **bagdepravinya@gmail.com**
 
