@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/PravinyaBagde)
+
 # 💫 About Me:
 🌱 I’m currently learning DEvOps.<br><br>💬 Ask me about UI/UX Designing, WireFrames♨️.<br><br>📫 Connect with me bagdepravinya@gmail.com<br><br>⚡ Fun fact I think 120 km/p is slow.
 
