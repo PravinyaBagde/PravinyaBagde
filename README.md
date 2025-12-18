@@ -4,7 +4,7 @@
 
 
 ## 🌐 About Me :
-<img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" />
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" />
 
 
 🔭 I’m currently working on Java, SpringBoot, and MicroServices  
