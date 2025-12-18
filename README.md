@@ -51,9 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact" width="60%" />
 </p>
 
-<p align="center">
-  <!-- Visitor counter -->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=PravinyaBagde&icon=0&color=0" />
-  </a>
-</p>
+
