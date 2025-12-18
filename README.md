@@ -13,10 +13,10 @@
 💬 Ask me about FIGMA, UI/UX Designing, Wireframes, Framer  
 ⚡ My code works… don’t ask why!!!
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pretty_Froyo319)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -39,11 +39,21 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PravinyaBagde&theme=dark&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=PravinyaBagde&theme=dark)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact)
+# 📊 GitHub Stats :
+<p align="center">
+  <!-- First row: two cards side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PravinyaBagde&theme=dark&include_all_commits=false&count_private=false" width="45%" style="margin-right:10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PravinyaBagde&theme=dark" width="45%" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=PravinyaBagde&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center" style="margin-top: 20px;">
+  <!-- Second row: one card centered -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact" width="50%" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <!-- Visitor counter -->
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=PravinyaBagde&icon=0&color=0" />
+  </a>
+</p>
