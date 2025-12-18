@@ -1,9 +1,10 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif" />
+
 
 
 ## 🌐 About Me :
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif" />
 
 🔭 I’m currently working on Java, SpringBoot, and MicroServices  
 👯 I’m looking to collaborate on Backend Projects  
