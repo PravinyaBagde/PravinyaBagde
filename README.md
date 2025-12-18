@@ -46,7 +46,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=PravinyaBagde&theme=dark" width="45%" />
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center" style="margin-top: 10px;">
   <!-- Second row: one card centered -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact" width="60%" />
 </p>
