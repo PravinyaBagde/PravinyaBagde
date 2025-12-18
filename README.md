@@ -1,4 +1,4 @@
-[![Fun Banner](https://media.giphy.com/media/Wmv1XOIvePuc3qO0Cb/giphy.gif)](https://github.com/abha2510)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 
 # 💫 About Me:
