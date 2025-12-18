@@ -48,7 +48,7 @@
 
 <p align="center" style="margin-top: 20px;">
   <!-- Second row: one card centered -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravinyaBagde&theme=dark&layout=compact" width="60%" />
 </p>
 
 <p align="center">
