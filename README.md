@@ -1,4 +1,5 @@
-![Fun Banner]([https://media.giphy.com/media/Wmv1XOIvePuc3qO0Cb/giphy.gif](https://github.com/abha2510))
+![Fun Banner](https://media.giphy.com/media/Wmv1XOIvePuc3qO0Cb/giphy.gif)
+
 
 
 # 💫 About Me:
