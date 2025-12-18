@@ -4,7 +4,7 @@
 
 
 ## 🌐 About Me :
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif" />
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/6c/12/b1/6c12b17b704562734d8b4c3ebae07672.gif" />
 
 🔭 I’m currently working on Java, SpringBoot, and MicroServices  
 👯 I’m looking to collaborate on Backend Projects  
