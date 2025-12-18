@@ -1,3 +1,5 @@
+![Fun Banner](https://media.giphy.com/media/Wmv1XOIvePuc3qO0Cb/giphy.gif)
+
 
 # 💫 About Me:
 🔭 I’m currently working on Java , SpringBoot and MicroServices<br>👯 I’m looking to collaborate on Backend Projects<br>🌱 I’m currently learning AWS, Docker, SpringBoot<br>💬 Ask me about FIGMA , UI/UX Designing , Wireframes, Framer<br>⚡ My code works… don’t ask why !!!
