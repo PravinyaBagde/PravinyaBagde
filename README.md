@@ -1,10 +1,8 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/86/96/30/869630ddaf776e576a399d4ed2cc400f.gif" />
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-# 💫 About Me:
 🔭 I’m currently working on Java, SpringBoot, and MicroServices  
 👯 I’m looking to collaborate on Backend Projects  
 🌱 I’m currently learning AWS, Docker, SpringBoot  
